@@ -1,0 +1,27 @@
+*{
+    
+}
+table{
+   
+    background-color:  white;
+margin: 145px auto;
+width: 35%;
+border-color: white;
+
+}
+
+
+td{
+    text-align: center;
+    
+}
+.vazio{
+    background-color: white;
+    border: none;
+}
+th{
+    color: blue;
+}
+tr{
+    background-color: yellow;
+}
